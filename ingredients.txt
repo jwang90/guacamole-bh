@@ -4,4 +4,3 @@
 - onions
 - paprika
 - salt 
-- pepper
